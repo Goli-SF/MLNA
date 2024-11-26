@@ -6,8 +6,7 @@ tags:
   - multilingual research
   - inclusion
 authors:
-  - first name: "Golnaz"
-    surname: "Sarkar Farshi"
+  - name: "Golnaz Sarkar-Farshi"
     orcid: "0000-0002-8870-0954"
     affiliation: "Philipps University of Marburg, Germany"
 date: 1 December 2024
