@@ -30,3 +30,4 @@ jobs:
 
 permissions:
   contents: write
+  # to enable write access to the repo
