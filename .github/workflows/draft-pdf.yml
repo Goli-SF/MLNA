@@ -28,3 +28,5 @@ jobs:
           message: '(auto) Paper PDF Draft'
           add: 'joss_paper/*.pdf'
 
+permissions:
+  contents: write
