@@ -5,13 +5,13 @@ tags:
   - digital humanities
   - multilingual research
   - inclusion
-author:
+authors:
   - name: Golnaz Sarkar Farshi
     orcid: 0000-0002-8870-0954
     equal-contrib: true
-    affiliation: "Philipps University Marburg"
+    affiliation: Philipps University Marburg
 date: 1 December 2024
-bibliography: paper.bib
+#bibliography: paper.bib
 
 ---
 
