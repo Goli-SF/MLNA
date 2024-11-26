@@ -2,6 +2,13 @@ name: mlna_ci
 
 on:
   push:
+    paths:
+      - mlna/**
+      - test_data/**
+      - tests/**
+      - poetry.lock
+      - pyproject.toml
+      - .github/workflows/mlna_ci.yml
     branches:
       - main
       - 'release/*'
