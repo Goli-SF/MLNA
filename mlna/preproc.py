@@ -52,12 +52,17 @@ def translate_long_text (text):
             ph_index= fun_text.index("<placeholder>")
             rest= text[ph_index:]
             sign_index= find_sign_index(rest)
+            if sign_index==None:
+                cut_index= ph_index
+            else:
+                cut_index= ph_index + sign_index
             cut_index= ph_index + sign_index
             chunk= text[:cut_index]
             translation += translator.translate(chunk, src=source, dest="en").text + ". "
             text = text.replace(chunk, "", 1)
 
     translation= translation.replace("..", ".")
+    translation = re.sub(r'[\u200b-\u200f\u202a-\u202e]', ' ', translation)
 
     return translation
 
