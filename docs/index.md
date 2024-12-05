@@ -16,7 +16,11 @@
 The MultiLingual Network Analysis Package (mlna)
 
 # Description
-This project was funded in 2024 by the Flex Funds of NFDI4Culture, a member consortium of the National Research Data Infrastructure in Germany. It is designed for researchers in the humanities who wish to work with multilingual digital documents, even if they do not fully understand the languages in which these documents are written. The tool helps researchers identify and select relevant documents from large digital collections for their research topics. The primary aim of this package is to integrate digital historical texts in non-European languages into European research, and vice versa.
+*This project was funded in 2024 by the [Flex Funds of NFDI4Culture](https://nfdi4culture.de/de/dienste/details/flex-funds.html), a member consortium of the National Research Data Infrastructure in Germany.*
+
+*NFDI4Culture is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure – Project Number: 441958017.*
+
+MLNA is designed for researchers in the humanities who wish to work with multilingual digital documents, even if they do not fully understand the languages in which these documents are written. The tool helps researchers identify and select relevant documents from large digital collections for their research topics. The primary aim of this package is to integrate digital historical texts in non-European languages into European research, and vice versa.
 
 To achieve this, the package enables users to visualize network relationships between words and entities extracted from the texts. These network visualizations reveal connections between specific keywords (e.g., people, places, technologies, dates, products, events, etc) mentioned in the documents. By examining these relationships, users can filter texts that discuss a specific connection (an edge in the network graph) or include a particular word (a node in the network graph) for closer reading and detailed analysis.
 
