@@ -16,6 +16,7 @@
 The MultiLingual Network Analysis Package (mlna)
 
 Developed by [Golnaz Sarkar Farshi](https://orcid.org/0000-0002-8870-0954)
+
 Version 1.0.1 (semantic versioning)
 
 # Description
