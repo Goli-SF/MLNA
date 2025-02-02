@@ -174,7 +174,7 @@ You can now select the texts displayed in `filtered_df` and perform a close read
 Contributions to the package, including bug fixes and new features, are welcome. When contributing to this repository, please first discuss the change you wish to make via a GitHub issue or email me before making a change.
 
 # License
-mlna has an MIT license. For more detail, see the (LICENSE.md)[https://github.com/Goli-SF/MLNA/blob/main/LICENSE.md] file. For the third-party licenses of other packages used for the development of mlna, see the THIRD_PARTY_LICENSES.md file.
+mlna has an MIT license. For more detail, see the [LICENSE.md](https://github.com/Goli-SF/MLNA/blob/main/LICENSE.md) file. For the third-party licenses of other packages used for the development of mlna, see the [THIRD_PARTY_LICENSES.md](https://github.com/Goli-SF/MLNA/blob/main/THIRD_PARTY_LICENSES.md) file.
 
 # Words of thanks
 I hereby warmly thank Mariatta Wijaya for her insightful tips on CI and unit testing as well as Gaëtan Manchon for his helpful tips regarding the implementation of poetry.
