@@ -24,7 +24,7 @@ Version 0.1.0 (semantic versioning)
 
 *NFDI4Culture is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure – Project Number: 441958017.*
 
-If you use MLNA in your scientific project, please cite [this article](https://www.sciencedirect.com/science/article/pii/S2352711025000718).
+**If you use MLNA in your scientific project, please cite [this article](https://www.sciencedirect.com/science/article/pii/S2352711025000718).**
 
 
 MLNA is designed for researchers in the humanities who wish to work with multilingual digital documents, even if they do not fully understand the languages in which these documents are written. The tool helps researchers identify and select relevant documents from large digital collections for their research topics. The primary aim of this package is to integrate digital historical texts in non-European languages into European research, and vice versa.
